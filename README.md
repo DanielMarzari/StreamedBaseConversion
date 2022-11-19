@@ -3,10 +3,10 @@
 ***HOW IT WORKS***
 
 Horner's Rule (least->most significant place / little-endian byte order)
-![Image](https://github.com/DanielMarzari/StreamedBaseConversion/blob/main/img/SBC_EQ1.jpg?raw=true)
+![Image](https://github.com/DanielMarzari/StreamedBaseConversion/blob/main/img/SBC_EQ1.png?raw=true)
 
 Reversed Horner's Rule (most->least significant place / big-endian byte order)
-![Image](https://github.com/DanielMarzari/StreamedBaseConversion/blob/main/img/SBC_EQ2.jpg?raw=true)
+![Image](https://github.com/DanielMarzari/StreamedBaseConversion/blob/main/img/SBC_EQ2.png?raw=true)
 
 See https://en.wikipedia.org/wiki/Horner%27s_method for more
 
